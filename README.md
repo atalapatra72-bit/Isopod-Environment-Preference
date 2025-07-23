@@ -1,4 +1,4 @@
-pdf: https://github.com/atalapatra72-bit/Isopod-Environment-Preference/blob/main/Isopod%20Environment%20Preference.pdf
+https://github.com/atalapatra72-bit/Isopod-Environment-Preference/blob/main/Isopod.pdf
 
 Overview:
 This project explores whether terrestrial isopods prefer dark environments over light. The study includes three experiments: two controls and one main light/dark trial, analyzed using chi-square statistics.
